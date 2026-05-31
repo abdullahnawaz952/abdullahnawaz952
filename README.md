@@ -188,9 +188,9 @@ Full NLP pipeline for product review classification with fine-tuned BERT.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=abdullahnawaz952&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=63b3ed&icon_color=7c3aed&text_color=e2e8f0)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=abdullahnawaz952&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=63b3ed&icon_color=7c3aed&text_color=e2e8f0)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahnawaz952&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=63b3ed&text_color=e2e8f0&exclude_repo=&hide=css,javascript)
+![Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=abdullahnawaz952&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=63b3ed&text_color=e2e8f0&hide=css,javascript)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdullahnawaz952&theme=dark&hide_border=true&background=0d1117&ring=63b3ed&fire=7c3aed&currStreakLabel=e2e8f0)
 
